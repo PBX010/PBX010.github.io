@@ -1,45 +1,55 @@
-# PBX010.github.io
-# 👋 Hi, I’m Bharat Mehra
-🎮 Game Developer | 🎨 Designer | 🔧 Full-Stack Gameplay Engineer
+I’m Bharat Mehra, a dedicated and versatile Game Developer with over 5 years of industry experience creating interactive, meaningful, and technically sound games.
 
-I'm a passionate game developer with 5+ years of experience building gameplay systems, AI behavior, cinematic animations, multiplayer features, and optimizing experiences for mobile and desktop platforms.
+I’ve always believed that games are one of the most powerful mediums for storytelling, emotional expression, and player connection. What started as a hobby — playing and experimenting with mechanics — turned into a passion for crafting entire worlds from scratch. I build games not just to entertain, but to communicate thoughts, challenge minds, and inspire curiosity.
 
-I specialize in **Unity (C#)** and am currently learning **Unreal Engine (C++)**. I also work with **backend systems** (PlayFab, Node.js), game audio (FMOD), and audience-targeted design to make games more impactful and engaging.
+My primary development engine is Unity, where I’ve built and shipped multiple projects spanning multiplayer combat, procedural gameplay, music-integrated worlds, and mobile experiences. I'm also learning Unreal Engine to deepen my technical depth and broaden the genres and visual styles I can explore.
 
----
+Whether it’s designing responsive AI, optimizing real-time performance, handling backend multiplayer architecture, or animating cinematic experiences with motion capture, I approach each task with a mindset of clarity, scalability, and immersion.
 
-## 🧠 What I Do
-- 🎮 Game design & full-cycle development
-- 🧠 AI systems, procedural generation, adaptive gameplay
-- 🎬 Cinematic handling, animation systems, motion capture
-- 🌐 Multiplayer + backend (PlayFab, Node.js)
-- 📱 Mobile publishing (Android/iOS) & IAP systems
-- 🎯 Player behavior analysis and feature tuning
+I also have experience in user behavior analysis and targeted feature design, which allows me to shape game mechanics based on what players enjoy most, increasing retention and emotional impact.
 
----
+My career goal is to collaborate with various game studios, mastering different genres and development styles — so I can continue to grow as a creative technologist and design truly unique experiences for players across the world.
 
-## 🕹️ Featured Projects
+⚔️ WOF Arena
+Genre: Action, Multiplayer, Arcade
+Tech Stack: Unity, C#, PlayFab
+Platforms: Android, iOS
 
-### ⚔️ [WOF Arena](#)
-*Action | Multiplayer | Mobile | Unity*
+WOF Arena is a fast-paced, 2D fantasy tournament game where players battle against 31 others in randomized combat encounters. The core mechanic revolves around stat-based outcomes, offering strategic choices in powers, weapons, and archetypes.
 
-A fantasy tournament-based mobile fighter with randomized stat-based combat and PlayFab multiplayer.
+I led the project end-to-end — designing, programming, and deploying the game. This included building the multiplayer system using PlayFab, implementing stat-based randomization logic, and designing a competitive leaderboard system for daily tournaments.
 
-- Developed entirely by me (gameplay, backend, matchmaking)
-- Daily tournaments, leaderboards, archetypes, power-ups
+Key Highlights:
 
-### 🎧 [Gabber Run](#)
-*Music | Infinite Runner | Mobile*
+Fully dynamic randomizer-based combat system
 
-Collaborative game with 5+ DJs from the hardcore community. Each level is based on a DJ’s track, style, and boss mission.
+30+ skill combinations with elemental affinities
 
-- Motion capture dances, custom Node.js backend, IAP, event control dashboard
-- Lead developer + team manager for a 4-person team
+Multiple archetypes, powers, and weapon types
 
----
+Integrated PlayFab for matchmaking, authentication, and leaderboard logic
 
-## 📫 Contact Me
+Built for mobile devices with optimization for 60fps performance
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
-- 🎮 [Itch.io](https://YOUR-ITCH-PAGE.itch.io)
-- ✉️ bharatmehra.dev@gmail.com *(or your preferred email)*
+#Projects
+
+🎧 Gabber Run
+Genre: Music, Infinite Runner, Action
+Tech Stack: Unity, C#, Node.js (Backend), Angular (Admin Panel)
+Platforms: Android, iOS
+
+Gabber Run is a high-speed infinite runner crafted in collaboration with over 5 international DJs from the hardcore/gabber music scene. Each level is themed around a DJ, featuring their music, a uniquely designed world, and a motion-captured boss battle.
+
+As lead developer, I handled full-stack development: gameplay, backend, animation pipeline, and internal tooling. I also coordinated a team of 4, providing technical and creative direction, assisting with 3D modeling, and managing feature integration.
+
+Key Highlights:
+
+Custom levels built to match the tempo, BPM, and mood of each DJ’s track
+
+Motion capture animations for DJ-specific dance styles and boss battles
+
+Node.js backend with admin panel built in Angular for real-time content updates
+
+Dynamic difficulty scaling based on user behavior
+
+Full IAP integration and data-driven event system for live content
