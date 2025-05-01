@@ -1,55 +1,51 @@
-I’m Bharat Mehra, a dedicated and versatile Game Developer with over 5 years of industry experience creating interactive, meaningful, and technically sound games.
+#👨‍💻 About Me
+🎮 Bharat Mehra | Game Developer | 5+ Years Experience
+🧠 Unity Specialist | Unreal Learner | Systems Thinker | Gamer at Heart
 
-I’ve always believed that games are one of the most powerful mediums for storytelling, emotional expression, and player connection. What started as a hobby — playing and experimenting with mechanics — turned into a passion for crafting entire worlds from scratch. I build games not just to entertain, but to communicate thoughts, challenge minds, and inspire curiosity.
+Hi there! I’m Bharat Mehra, a passionate game developer with over 5 years of experience building immersive, meaningful, and technically rich games.
 
-My primary development engine is Unity, where I’ve built and shipped multiple projects spanning multiplayer combat, procedural gameplay, music-integrated worlds, and mobile experiences. I'm also learning Unreal Engine to deepen my technical depth and broaden the genres and visual styles I can explore.
+I see game development as a fusion of creativity and engineering, where stories, mechanics, and emotions blend into unforgettable experiences. Whether it’s crafting reactive AI, animating cinematics with motion capture, or fine-tuning multiplayer systems — I love solving creative and technical problems alike.
 
-Whether it’s designing responsive AI, optimizing real-time performance, handling backend multiplayer architecture, or animating cinematic experiences with motion capture, I approach each task with a mindset of clarity, scalability, and immersion.
+🔧 Core Skills
+🛠️ Game Engines: Unity (Expert), Unreal Engine (Learning)
 
-I also have experience in user behavior analysis and targeted feature design, which allows me to shape game mechanics based on what players enjoy most, increasing retention and emotional impact.
+💬 Languages: C#, C++, Node.js, TypeScript
 
-My career goal is to collaborate with various game studios, mastering different genres and development styles — so I can continue to grow as a creative technologist and design truly unique experiences for players across the world.
+🌐 Backend & Services: PlayFab, Firebase, Custom Node.js Servers
 
-⚔️ WOF Arena
-Genre: Action, Multiplayer, Arcade
-Tech Stack: Unity, C#, PlayFab
-Platforms: Android, iOS
+👁️‍🗨️ Gameplay Systems: AI, Combat, Level Design, Dialogue Trees
 
-WOF Arena is a fast-paced, 2D fantasy tournament game where players battle against 31 others in randomized combat encounters. The core mechanic revolves around stat-based outcomes, offering strategic choices in powers, weapons, and archetypes.
+🎬 Cinematics & Animation: Rigging, Motion Capture, Timeline, Shader FX
 
-I led the project end-to-end — designing, programming, and deploying the game. This included building the multiplayer system using PlayFab, implementing stat-based randomization logic, and designing a competitive leaderboard system for daily tournaments.
+🎯 Optimization: Mobile performance, Asset pipelines, Garbage collection
 
-Key Highlights:
+📊 Player-Centric Design: Audience targeting, data-driven features
 
-Fully dynamic randomizer-based combat system
+🧠 Philosophy
+“Games are the purest way to transfer thoughts, emotions, and philosophies without saying a word.”
 
-30+ skill combinations with elemental affinities
+I design systems that are responsive to player behavior and build features that adapt to their preferences. Whether it's a casual mobile user or a hardcore PC gamer, I love tuning experiences to feel "just right."
 
-Multiple archetypes, powers, and weapon types
+🎯 Career Goals
+My goal is to work across diverse game studios, explore different genres, and deepen my understanding of interactive storytelling, art pipelines, and emerging technologies — becoming a true creative technologist in the gaming world.
 
-Integrated PlayFab for matchmaking, authentication, and leaderboard logic
+🌱 Currently...
+Learning Unreal Engine 5 for next-gen projects
 
-Built for mobile devices with optimization for 60fps performance
+Experimenting with psychological horror mechanics
 
-#Projects
+Building a playable WebGL portfolio
 
-🎧 Gabber Run
-Genre: Music, Infinite Runner, Action
-Tech Stack: Unity, C#, Node.js (Backend), Angular (Admin Panel)
-Platforms: Android, iOS
+Studying player psychology and retention tactics
 
-Gabber Run is a high-speed infinite runner crafted in collaboration with over 5 international DJs from the hardcore/gabber music scene. Each level is themed around a DJ, featuring their music, a uniquely designed world, and a motion-captured boss battle.
+📬 Contact Me
+📧 Email: bharatmehra.dev@gmail.com
 
-As lead developer, I handled full-stack development: gameplay, backend, animation pipeline, and internal tooling. I also coordinated a team of 4, providing technical and creative direction, assisting with 3D modeling, and managing feature integration.
+💼 LinkedIn: linkedin.com/in/bharat-mehra
 
-Key Highlights:
+🎮 Portfolio Projects: See Below
 
-Custom levels built to match the tempo, BPM, and mood of each DJ’s track
+🔥 Fun Fact
+I've built full-stack multiplayer games solo — and still find time to jam out animations with motion capture and custom shaders. Let's build something unforgettable together.
 
-Motion capture animations for DJ-specific dance styles and boss battles
-
-Node.js backend with admin panel built in Angular for real-time content updates
-
-Dynamic difficulty scaling based on user behavior
-
-Full IAP integration and data-driven event system for live content
+💫 Let’s Make Games That Matter
