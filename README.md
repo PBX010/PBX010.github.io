@@ -91,7 +91,7 @@ A stat-based 2D fantasy multiplayer battler where players enter daily 32-player 
 **🛠️ Unity • C# • Node.js (Backend) • Angular (Admin Panel)**  
 **📱 Android / iOS**
 
-An adrenaline-pumped rhythm runner developed in collaboration with 5+ hardcore DJs. Each level represents a DJ — complete with original tracks, motion-captured dance animations, DJ-themed powers, and boss fights.
+An adrenaline-pumped 3D rhythm runner developed in collaboration with 5+ hardcore DJs. Each level represents a DJ — complete with original tracks, motion-captured dance animations, DJ-themed powers, and boss fights.
 
 **🔹 Key Highlights:**
 - Lead Developer in a 4-person team
@@ -99,7 +99,8 @@ An adrenaline-pumped rhythm runner developed in collaboration with 5+ hardcore D
 - Built backend with Node.js + frontend admin panel using Angular
 - Helped with 3D modeling, design systems, and team workflows
 - Integrated motion capture animations to reflect DJ moves
-
+- Contains different gameplay aka functionalities from other genres like puzzles, hidden items, boss fights, minor 2D arcade games etc.
+  
 > 🔗 *(Demo / GitHub Link coming soon)*
 
 ---
