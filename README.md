@@ -144,31 +144,57 @@ Play as ghost hunters using in-game mobile devices and paranormal equipment to i
 > [🔗 Steam Page](#) *(Add your Steam page link here)*  
 > [🎮 Download or Web Build](#) *(Optional if you have a playable build)*
 
+# 🎶 Concerto XL — Virtual Concert Experience in 3D
+
+**Concerto XL** is a real-time **3D multiplayer concert simulation game**, offering users a one-of-a-kind virtual concert experience powered by **YouTube video streaming**, voice chat, gestures, and social interaction — all inside a vibrant digital arena.
+
+Up to **16 users** can join each concert session, chat, emote, and enjoy music together with perfect sync — no matter where they are in the world.
+
+## 🌐 Core Features
+
+- 🎥 **YouTube video integration** – Concerts play curated videos on a massive screen inside a 3D venue  
+- 🧍‍♂️ **Multiplayer social interaction** – Up to 16 users per event, with real-time movement, gestures, and emotes  
+- 🎤 **Voice chat + text chat** support for full interaction  
+- 🕒 **Scheduled concert system** with ticket booking & countdown  
+- 🔁 **Lag-reduced sync engine** ensures all players see the exact same video timestamp  
+- 🧾 **Admin panel & backend integration** for creating events, managing tickets, and launching sessions  
+
+## 🛠️ Tech Stack
+
+- Unity (C#)
+- WebSockets for backend communication  
+- YouTube API / video streaming  
+- Custom time sync and lag compensation system  
+- Backend-driven **event and ticket management**  
+
+## 🎟️ How It Works
+
+1. **Users purchase tickets** via a web-based admin panel  
+2. Concert **access opens 15 minutes before the show**  
+3. Users join the arena, watch the performance, and interact with others  
+4. Each concert runs for 30 minutes — join or leave anytime  
+
+## 🎮 Highlights
+
+- 🎉 Unique fusion of **concert atmosphere and multiplayer gaming**
+- 🕹️ Emote/gesture system to enhance virtual presence
+- 🔒 Ticketing system with access control
+- 🧠 Built with performance and sync accuracy as top priorities
+
+## 📽️ Media & Demo
+
+> [🎥 Demo / Preview Video](#) *(YouTube or drive link if available)*  
+> [🎮 Play or Build](#) *(Optional WebGL/PC demo link)*  
+> [🛒 Admin Panel Preview](#) *(Optional image or link)*
+
+---
+
 ## 🌌 More Projects Coming Soon...
 
 - 🎯 AI-driven puzzle platformer
 - 🧠 Psychological horror prototype in Unreal Engine
 - 🌐 Playable WebGL games hosted via GitHub Pages
 - 🎮 Experimental narrative mini-games focused on emotion and philosophy
-
----
-
-## 🧪 Experimental Repositories
-
-Feel free to browse my pinned repos for:
-
-- 🕹️ Gameplay systems (dialogue trees, AI behaviors, procedural gen)
-- ⚙️ Custom Unity tools (scene manager, shader graph samples)
-- 🎨 Animation demos (mocap handling, character rigs)
-- 🧰 Backend integrations (PlayFab, Firebase, Node.js)
-
----
-
-## 🔜 Want to Play My Games?
-
-- 🚀 WebGL playable demos will be added soon via GitHub Pages  
-- 📦 Android APKs will be available for direct download  
-- 🔗 itch.io & trailer links in progress
 
 ---
 
