@@ -105,6 +105,45 @@ An adrenaline-pumped 3D rhythm runner developed in collaboration with 5+ hardcor
 
 ---
 
+# 👻 Scared Tube — 3D Action Horror Survival Game
+
+**Scared Tube** is a spine-chilling **3D multiplayer horror survival game**, built in Unity with **AA-quality visuals powered by URP**. Join up to **4 friends** and step into a haunted environment where your voice — and your fear — can be your downfall.
+
+## 🔦 Gameplay Overview
+
+Play as ghost hunters using in-game mobile devices and paranormal equipment to identify the spirit haunting the area. But beware — the ghost has its own agenda, powered by an advanced **in-house AI system** with unique hunting states and behavior trees.
+
+🗣️ Speak cautiously — the ghost listens! Say something insulting, and it may target you first...
+
+## 🌐 Multiplayer Features
+
+- Built with **Photon PUN** for seamless co-op multiplayer
+- Supports up to **4-player online gameplay**
+- Voice input influences the ghost's behavior, creating **dynamic fear moments**
+
+## 🎮 Key Features
+
+- 👁️‍🗨️ **Advanced AI ghost system** with unpredictable hunting patterns
+- 📱 **In-game smartphone mechanics** for investigation and clues
+- ⚙️ **Ghost responds to voice input** – your mic is part of the horror!
+- 💡 Powered by **Unity URP** for optimized and beautiful lighting
+- 🎙️ Use **ghost-hunting tools** like EMF, spirit box, and more
+- 💻 **Steam-ready build for PC**
+
+## 🛠️ Tech Stack
+
+- Unity (C#)
+- Photon PUN (Multiplayer)
+- Unity URP (Graphics Pipeline)
+- In-house AI systems (State Machines & Voice Input Integration)
+- Custom Audio Triggers via Unity Microphone Input
+
+## 🎥 Media
+
+> [📺 Trailer / Demo Video](#) *(Add your YouTube link here)*  
+> [🔗 Steam Page](#) *(Add your Steam page link here)*  
+> [🎮 Download or Web Build](#) *(Optional if you have a playable build)*
+
 ## 🌌 More Projects Coming Soon...
 
 - 🎯 AI-driven puzzle platformer
