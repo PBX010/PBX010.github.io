@@ -277,7 +277,6 @@ From character animation to set design and camera control, this tool transforms 
 ## 📬 Contact Me
 
 - 📧 **Email:** [bharatmehra232@gmail.com](mailto:bharatmehra232@gmail.com)  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/bharat-mehra-063333173/](#)  
-- 🎮 **Portfolio Projects:** [See Below](#featured-projects)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/bharat-mehra-063333173/](#) 
 
 ---
