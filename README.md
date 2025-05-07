@@ -82,8 +82,8 @@ A stat-based 2D fantasy multiplayer battler where players enter daily 32-player 
 - Unique power system, skills, and archetype builds
 - Mobile optimization and UI polish for Android & iOS
 
-> 🔗 [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.WOFProduction.WheelofFaithArena)
-*
+>  [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.WOFProduction.WheelofFaithArena)
+
 
 
 ---
@@ -104,7 +104,8 @@ An adrenaline-pumped 3D rhythm runner developed in collaboration with 5+ hardcor
 - Integrated motion capture animations to reflect DJ moves
 - Contains different gameplay aka functionalities from other genres like puzzles, hidden items, boss fights, minor 2D arcade games etc.
   
-> 🔗 *(Demo / GitHub Link coming soon)*
+> [![Get Gabber Run on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.HeliosProduction.GabberRun&pcampaignid=web_share)
+
 
 
 ---
@@ -145,9 +146,8 @@ Play as ghost hunters using in-game mobile devices and paranormal equipment to i
 
 ## 🎥 Media
 
-> [📺 Trailer / Demo Video](#) *(Add your YouTube link here)*  
-> [🔗 Steam Page](#) *(Add your Steam page link here)*  
-> [🎮 Download or Web Build](#) *(Optional if you have a playable build)*
+> [![Play on Steam](https://img.shields.io/badge/Play%20on-Steam-000?logo=steam&logoColor=white)](https://store.steampowered.com/app/2007700/Scared_Tube/)
+
 
 
 # 🎶 Concerto XL — Virtual Concert Experience in 3D
@@ -190,9 +190,8 @@ Up to **16 users** can join each concert session, chat, emote, and enjoy music t
 
 ## 📽️ Media & Demo
 
-> [🎥 Demo / Preview Video](#) *(YouTube or drive link if available)*  
-> [🎮 Play or Build](#) *(Optional WebGL/PC demo link)*  
-> [🛒 Admin Panel Preview](#) *(Optional image or link)*
+[![Concerto XL](https://www.concerto-xl.com/logo.png)](https://www.concerto-xl.com/)
+
 
 
 ---
