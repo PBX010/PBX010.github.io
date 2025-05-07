@@ -84,7 +84,9 @@ A stat-based 2D fantasy multiplayer battler where players enter daily 32-player 
 
 > 🔗 *(Demo / GitHub Link coming soon)*
 
+
 ---
+
 
 ## 🎧 Gabber Run  
 **🎮 Music • Infinite Runner • Action**  
@@ -103,7 +105,9 @@ An adrenaline-pumped 3D rhythm runner developed in collaboration with 5+ hardcor
   
 > 🔗 *(Demo / GitHub Link coming soon)*
 
+
 ---
+
 
 # 👻 Scared Tube — 3D Action Horror Survival Game
 
@@ -144,7 +148,9 @@ Play as ghost hunters using in-game mobile devices and paranormal equipment to i
 > [🔗 Steam Page](#) *(Add your Steam page link here)*  
 > [🎮 Download or Web Build](#) *(Optional if you have a playable build)*
 
+
 # 🎶 Concerto XL — Virtual Concert Experience in 3D
+
 
 **Concerto XL** is a real-time **3D multiplayer concert simulation game**, offering users a one-of-a-kind virtual concert experience powered by **YouTube video streaming**, voice chat, gestures, and social interaction — all inside a vibrant digital arena.
 
@@ -187,7 +193,56 @@ Up to **16 users** can join each concert session, chat, emote, and enjoy music t
 > [🎮 Play or Build](#) *(Optional WebGL/PC demo link)*  
 > [🛒 Admin Panel Preview](#) *(Optional image or link)*
 
+
 ---
+
+# 🎬 Move Studio — In-House AAA Animation & Cinematic Editor in Unity
+
+**Move Studio** is a cutting-edge, all-in-one **cinematic creation tool** built entirely in Unity using **HDRP**. Designed to rival traditional animation software, Move Studio empowers creators to craft **animated films, cutscenes, and cinematic sequences** — all within a drag-and-drop AAA-quality environment.
+
+From character animation to set design and camera control, this tool transforms Unity into a **complete movie-making studio**.
+
+## ✨ Core Features
+
+- 🧱 **Drag-and-drop workflow** — Place characters, props, environments directly onto a 3D grid
+- 🕺 **Animation system** — Drop animations onto timeline, preview motion instantly
+- 🎥 **Cinematic camera control** — Keyframe-based camera tools for dynamic shots and tracking
+- 🌆 **Incredible visuals** — Built with **Unity HDRP**, using high-end VFX, particles, shaders, and lighting systems
+- 📦 **Addressables-based asset loading** — Connects to cloud backend to fetch user assets securely
+- 🌐 **Web-integrated backend** — Users upload assets via a custom web interface tied to their ID
+- 📹 **Export-ready** — Record full animations and **export as MP4 videos** directly from the tool
+
+## 🧰 Tech Stack
+
+- Unity HDRP (C#)
+- Unity Addressables System
+- In-house Web Backend + User Dashboard
+- Cinemachine + Custom Camera Systems
+- Custom Shader Graph / VFX Graph for AAA visuals
+- Timeline + Recorder integration
+
+## 🖥️ Workflow
+
+1. Upload models, animations, and sets via your web dashboard  
+2. Log into Move Studio and **drag assets into the scene grid**  
+3. Use intuitive tools to **animate characters, control cameras, and add VFX**  
+4. Preview, polish, and export the final cinematic as **high-quality MP4**
+
+## 🚀 Highlights
+
+- 🎮 AAA-quality visuals within Unity's real-time engine
+- 📦 Personalized cloud asset pipeline for remote teams
+- 🛠️ Ideal for game devs, indie filmmakers, and animators
+- 🧠 Built for speed, modularity, and artistic control
+
+## 📽️ Media & Demo
+
+> Nothing is avaliable due to NDA with company.
+
+---
+
+
+
 
 ## 🌌 More Projects Coming Soon...
 
