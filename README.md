@@ -50,8 +50,8 @@ My goal is to **work across diverse studios**, explore different genres, and dee
 
 ## 📬 Contact Me
 
-- 📧 **Email:** [bharatmehra.dev@gmail.com](mailto:bharatmehra.dev@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/bharat-mehra](#)  
+- 📧 **Email:** [bharatmehra232@gmail.com](mailto:bharatmehra232@gmail.com)  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/bharat-mehra-063333173/](#)  
 - 🎮 **Portfolio Projects:** [See Below](#featured-projects)
 
 ---
@@ -82,7 +82,8 @@ A stat-based 2D fantasy multiplayer battler where players enter daily 32-player 
 - Unique power system, skills, and archetype builds
 - Mobile optimization and UI polish for Android & iOS
 
-> 🔗 *(Demo / GitHub Link coming soon)*
+> 🔗 [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.WOFProduction.WheelofFaithArena)
+*
 
 
 ---
@@ -241,7 +242,33 @@ From character animation to set design and camera control, this tool transforms 
 
 ---
 
+### 🏢 Companies I've Worked With
 
+- **WOF Productions (Chicago, USA)** – *Game Development Manager*  
+  🗓️ Jul 2024 – Present  
+  - Leading gameplay design, cross-platform strategy, and performance optimization for flagship products.
+
+- **Upwork (Remote, India)** – *Freelance Game Developer*  
+  🗓️ Jan 2020 – Present  
+  - Delivered complete multiplayer, puzzle, horror, and metaverse experiences to global clients.  
+  - Specialized in Unity (URP/HDRP), Photon PUN, and voice/AI integrations.
+
+- **Apptunix (Mohali, India)** – *Game Development Team Lead*  
+  🗓️ Jul 2023 – Jun 2024  
+  - Managed a team building mobile and PC games with Firebase backend and Unity frontend.  
+  - Introduced scalable AI systems and improved team workflows.
+
+- **Warlands NFT (Dubai, UAE)** – *Senior Game Developer*  
+  🗓️ Oct 2022 – Jun 2023  
+  - Created a Web3-based MOBA game with NFT integration and blockchain interactions.  
+  - Optimized asset streaming, matchmaking, and secure Web3 wallet flows.
+
+- **Live Deftsoft Informatics (Mohali, India)** – *Game Developer*  
+  🗓️ Oct 2021 – Oct 2022  
+  - Developed and launched 3D games for education and entertainment.  
+  - Built asset pipelines and optimized for mobile/PC using URP and Unity Addressables.
+
+---
 
 
 ## 🌌 More Projects Coming Soon...
