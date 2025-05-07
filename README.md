@@ -1,4 +1,3 @@
-# 👨‍💻 Bharat Mehra
 
 ### 🎮 Game Developer | 5+ Years Experience  
 **Unity Specialist | Unreal Learner | Systems Thinker | Gamer at Heart**
@@ -230,6 +229,8 @@ From character animation to set design and camera control, this tool transforms 
 
 > Nothing is avaliable due to NDA with company.
 
+---
+## I’ve also worked on over 6–7 more projects, ranging from 2D to 3D, different genre games, all crafted using Unity. Each project was a unique challenge that helped sharpen my skills and expand my creative toolkit.
 ---
 
 ### 🏢 Companies I've Worked With
