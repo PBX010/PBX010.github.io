@@ -48,14 +48,6 @@ My goal is to **work across diverse studios**, explore different genres, and dee
 
 ---
 
-## 📬 Contact Me
-
-- 📧 **Email:** [bharatmehra232@gmail.com](mailto:bharatmehra232@gmail.com)  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/bharat-mehra-063333173/](#)  
-- 🎮 **Portfolio Projects:** [See Below](#featured-projects)
-
----
-
 ## ✨ Fun Fact
 
 > I've built multiplayer games solo — and still found time to rig motion capture animations, script combat AI, and hand-optimize mobile performance.  
@@ -105,7 +97,6 @@ An adrenaline-pumped 3D rhythm runner developed in collaboration with 5+ hardcor
 - Contains different gameplay aka functionalities from other genres like puzzles, hidden items, boss fights, minor 2D arcade games etc.
   
 > [![Get Gabber Run on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.HeliosProduction.GabberRun&pcampaignid=web_share)
-
 
 
 ---
@@ -279,4 +270,14 @@ From character animation to set design and camera control, this tool transforms 
 
 ---
 
+## Feel free to reach out for collaboration, questions, or just a friendly chat about game development! I’m always open to discussing ideas, projects, and ways we can create something awesome together. Let’s make great things happen!
 
+---
+
+## 📬 Contact Me
+
+- 📧 **Email:** [bharatmehra232@gmail.com](mailto:bharatmehra232@gmail.com)  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/bharat-mehra-063333173/](#)  
+- 🎮 **Portfolio Projects:** [See Below](#featured-projects)
+
+---
