@@ -278,6 +278,8 @@ From character animation to set design and camera control, this tool transforms 
 ## 📬 Contact Me
 
 - 📧 **Email:** [bharatmehra232@gmail.com](mailto:bharatmehra232@gmail.com)  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/bharat-mehra-063333173/](#) 
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/bharat-mehra-063333173/](#)
+- 💼 **Contact Me:** [+91 9464138852] 
+- [📄 Download my resume]([https://github.com/yourusername/yourrepo/blob/main/Bharat_Mehra_Resume.pdf](https://github.com/PBX010/PBX010.github.io/blob/main/Resume%20Latest%20Bharat%20Mehra.pdf))
 
 ---
