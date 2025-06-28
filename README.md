@@ -279,7 +279,9 @@ From character animation to set design and camera control, this tool transforms 
 
 - 📧 **Email:** [bharatmehra232@gmail.com](mailto:bharatmehra232@gmail.com)  
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/bharat-mehra-063333173/](#)
-- 💼 **Contact Me:** [+91 9464138852] 
+- 💼 **Contact Me:** [+91 9464138852]
+- 🔗 Explore My Real Work and Reviews:
+💼 [Upwork Profile – Verified Work & Reviews] [https://www.linkedin.com/in/bharat-mehra-063333173/](#)
 - You can view or download my latest resume here:  
 👉 [Resume – Bharat Mehra](https://PBX010.github.io/Resume%20Latest%20Bharat%20Mehra.pdf)
 
