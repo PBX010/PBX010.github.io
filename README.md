@@ -278,10 +278,12 @@ From character animation to set design and camera control, this tool transforms 
 ## 📬 Contact Me
 
 - 📧 **Email:** [bharatmehra232@gmail.com](mailto:bharatmehra232@gmail.com)  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/bharat-mehra-063333173/](#)
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/bharat-mehra-063333173/)
 - 💼 **Contact Me:** [+91 9464138852]
-- 🔗 Explore My Real Work and Reviews:
-💼 [Upwork Profile – Verified Work & Reviews] [https://www.linkedin.com/in/bharat-mehra-063333173/](#)
+- I’ve helped multiple clients on [Upwork](https://www.upwork.com/freelancers/bharatmehra3) build high-quality Unity games and backend systems.  
+✅ 5-star reviews  
+✅ Verified work history  
+✅ Fast communication and scalable code
 - You can view or download my latest resume here:  
 👉 [Resume – Bharat Mehra](https://PBX010.github.io/Resume%20Latest%20Bharat%20Mehra.pdf)
 
