@@ -110,8 +110,8 @@ An adrenaline-pumped 3D rhythm runner developed in collaboration with 5+ hardcor
       </a>
     </td>
     <td>
-      <a href="https://youtu.be/dsSqu-38THY" target="_blank">
-        <img src="https://img.youtube.com/vi/dsSqu-38THY/maxresdefault.jpg" width="300"/>
+      <a href="https://youtu.be/Cj4qJks3qkc" target="_blank">
+        <img src="https://img.youtube.com/vi/Cj4qJks3qkc/maxresdefault.jpg" width="300"/>
       </a>
     </td>
   </tr>
