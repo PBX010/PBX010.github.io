@@ -269,6 +269,8 @@ From character animation to set design and camera control, this tool transforms 
 
 > Nothing is avaliable due to NDA with company.
 
+---
+
 # 🎲 Star Square — Online Multiplayer Board Game
 
 **Star Square** is a real-time **multiplayer board game** where players connect dots 🔵 to form squares ⬛⬜. It's a modern **Ludo alternative** with interactive chat 🗨️, emojis 😍, and voice communication 📞. Powered by **Photon Fusion**, it supports smooth online matches and **10k+ downloads** worldwide.  
