@@ -138,7 +138,20 @@ Play as ghost hunters using in-game mobile devices and paranormal equipment to i
 ## 🎥 Media
 
 > [![Play on Steam](https://img.shields.io/badge/Play%20on-Steam-000?logo=steam&logoColor=white)](https://store.steampowered.com/app/2007700/Scared_Tube/)
-
+<table>
+  <tr>
+    <td>
+      <a href="https://youtu.be/zVys0XTZrjM" target="_blank">
+        <img src="https://img.youtube.com/vi/zVys0XTZrjM/maxresdefault.jpg" width="300"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://youtu.be/w8rAKNIPKPw" target="_blank">
+        <img src="https://img.youtube.com/vi/w8rAKNIPKPw/maxresdefault.jpg" width="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 # 🎶 Concerto XL — Virtual Concert Experience in 3D
@@ -182,7 +195,15 @@ Up to **16 users** can join each concert session, chat, emote, and enjoy music t
 ## 📽️ Media & Demo
 
 [![Concerto XL](https://www.concerto-xl.com/logo.png)](https://www.concerto-xl.com/)
-
+<table>
+  <tr>
+    <td>
+      <a href="https://youtu.be/b0NFb0xF3XU" target="_blank">
+        <img src="https://img.youtube.com/vi/b0NFb0xF3XU/maxresdefault.jpg" width="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
