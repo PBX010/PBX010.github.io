@@ -38,23 +38,6 @@ My goal is to **work across diverse studios**, explore different genres, and dee
 
 ---
 
-## 🌱 Currently Learning
-
-- 🔹 **Unreal Engine 5**
-- 🔹 **Psychological horror systems**
-- 🔹 **WebGL deployment**
-- 🔹 **Game analytics and player psychology**
-
----
-
-## ✨ Fun Fact
-
-> I've built multiplayer games solo — and still found time to rig motion capture animations, script combat AI, and hand-optimize mobile performance.  
->  
-> Let’s build something unforgettable together.
-
----
-
 # 🧩 Featured Projects
 
 ---
@@ -74,7 +57,7 @@ A stat-based 2D fantasy multiplayer battler where players enter daily 32-player 
 - Mobile optimization and UI polish for Android & iOS
 
 >  [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.WOFProduction.WheelofFaithArena)
-
+[![Watch the video](https://img.youtube.com/vi/W6eheq49Szg/maxresdefault.jpg)](https://youtu.be/W6eheq49Szg)
 
 
 ---
