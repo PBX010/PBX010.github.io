@@ -269,6 +269,31 @@ From character animation to set design and camera control, this tool transforms 
 
 > Nothing is avaliable due to NDA with company.
 
+# 🎲 Star Square — Online Multiplayer Board Game
+
+**Star Square** is a real-time **multiplayer board game** where players connect dots 🔵 to form squares ⬛⬜. It's a modern **Ludo alternative** with interactive chat 🗨️, emojis 😍, and voice communication 📞.  
+
+## ✨ Key Features
+
+- **Classic Mode** — 3-round matches, 108 squares total  
+- **Quick Mode** — Fast-paced games for quick fun  
+- **Live Match** — Play with people worldwide 🌎  
+- **VS Friend** — Join friends remotely via Room ID  
+- **VS Computer** — Challenge smart AI 💻  
+- **Local Player** — Play with friends/family together  
+- **Add Friend** — Make new friends and challenge them  
+- **Edit Profile** — Customize avatars, frames, sound & more 👤  
+
+## 🎮 Gameplay & Social
+
+- Attractive avatars 👩‍🎓🤶, frames 🖼️, and squares  
+- Daily bonuses 💰, daily spins 🥏, and option to remove ads 🚫  
+- Built-in **voice chat** 🎧  
+
+## 📥 Play Now
+
+[Play Star Square on Google Play](https://play.google.com/store/apps/details?id=com.StarSquare&hl=en)
+
 ---
 ## I’ve also worked on over 6–7 more projects, ranging from 2D to 3D, different genre games, all crafted using Unity. Each project was a unique challenge that helped sharpen my skills and expand my creative toolkit.
 ---
