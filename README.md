@@ -57,7 +57,25 @@ A stat-based 2D fantasy multiplayer battler where players enter daily 32-player 
 - Mobile optimization and UI polish for Android & iOS
 
 >  [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.WOFProduction.WheelofFaithArena)
-[![Watch the video](https://img.youtube.com/vi/W6eheq49Szg/maxresdefault.jpg)](https://youtu.be/W6eheq49Szg)
+<table>
+  <tr>
+    <td>
+      <a href="https://youtu.be/W6eheq49Szg" target="_blank">
+        <img src="https://img.youtube.com/vi/W6eheq49Szg/maxresdefault.jpg" width="300"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://youtu.be/CUh4DEVUIfM" target="_blank">
+        <img src="https://img.youtube.com/vi/CUh4DEVUIfM/maxresdefault.jpg" width="300"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://youtu.be/dsSqu-38THY" target="_blank">
+        <img src="https://img.youtube.com/vi/dsSqu-38THY/maxresdefault.jpg" width="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
