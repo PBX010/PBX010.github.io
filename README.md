@@ -299,12 +299,12 @@ From character animation to set design and camera control, this tool transforms 
   <tr>
     <td>
       <a href="https://youtu.be/eh8JaBkdC20" target="_blank">
-        <img src="https://img.youtube.com/vi/zVys0XTZrjM/maxresdefault.jpg" width="300"/>
+        <img src="https://youtu.be/eh8JaBkdC20/maxresdefault.jpg" width="300"/>
       </a>
     </td>
     <td>
       <a href="https://youtu.be/-2wzLZlZxlg" target="_blank">
-        <img src="https://img.youtube.com/vi/w8rAKNIPKPw/maxresdefault.jpg" width="300"/>
+        <img src="https://youtu.be/-2wzLZlZxlg/maxresdefault.jpg" width="300"/>
       </a>
     </td>
   </tr>
